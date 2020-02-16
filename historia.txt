@@ -1,3 +1,5 @@
 este es solo un archivo de prueba para git
 
-una linea mas
+le quite esa linea, no me interesaba
+
+le voy a poner una linea mas
